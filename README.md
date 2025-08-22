@@ -120,22 +120,6 @@ Backend → `http://localhost:5000`
   date: Date
 }
 ```
-
----
-
-## 📷 Screenshots
-
-### Transactions List
-- Date: `2025-02-10`  
-- Title: `Salary`  
-- Amount: `50000`  
-- Type: `credit`  
-- Category: `Salary`  
-
-Actions → **Edit ✏️ | Delete 🗑️**  
-
-![Transactions Page](screenshot.png)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -150,7 +134,4 @@ Actions → **Edit ✏️ | Delete 🗑️**
 ## 📜 License
 Licensed under the **MIT License** – feel free to use and modify.
 
----
 
-## 👨‍💻 Author
-Developed by **[Your Name]** 🚀
